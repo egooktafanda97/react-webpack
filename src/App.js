@@ -13,4 +13,4 @@ class App extends Component {
   }
 }
 
-render(<App />, document.getElementById("charts"));
+render(<App />, document.getElementById("root"));
